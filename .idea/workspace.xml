@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a342b91c-f4d8-485c-83e1-fa42ebb4524e" name="Changes" comment="bridBoo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZqhUZoJcfaxe9GXKEdSJKiQPHp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "birdboot",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/canai/code/java/BridBoot/V9/src/main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/canai/code/java/BridBoot/V4/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/V9/src/main" />
+      <recent name="$PROJECT_DIR$/V8/src/main/resources" />
+      <recent name="$PROJECT_DIR$/V8/src/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/V7/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/V9/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/V5/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/V5/src/main/java/com/bridboot/core" />
+      <recent name="$PROJECT_DIR$/V5/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BridBootApplication (2)">
+    <configuration name="BridBootApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.BridBootApplication" />
+      <module name="V8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridBootApplication (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.BridBootApplication" />
+      <module name="V9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridBootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.BridBootApplication" />
+      <module name="V5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridBootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.BridBootApplication" />
+      <module name="V6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridBootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.BridBootApplication" />
+      <module name="V7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.ClientHandler" />
+      <module name="V5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridboot.core.ClientHandler" />
+      <module name="V6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridboot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BridBoot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BridBoot" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BridBootApplication (2)" />
+        <item itemvalue="Application.BridBootApplication (1)" />
+        <item itemvalue="Application.BridBootApplication (1)" />
+        <item itemvalue="Application.BridBootApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a342b91c-f4d8-485c-83e1-fa42ebb4524e" name="Changes" comment="" />
+      <created>1703155534720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703155534720</updated>
+      <workItem from="1703155535846" duration="3733000" />
+      <workItem from="1703226639782" duration="7266000" />
+      <workItem from="1703294116162" duration="4295000" />
+      <workItem from="1703299699877" duration="4015000" />
+      <workItem from="1703395447282" duration="14433000" />
+      <workItem from="1703428382549" duration="485000" />
+      <workItem from="1703468322824" duration="8901000" />
+      <workItem from="1703483078672" duration="627000" />
+      <workItem from="1703483723241" duration="4186000" />
+      <workItem from="1703511248051" duration="4648000" />
+      <workItem from="1703523738204" duration="7720000" />
+      <workItem from="1703579212835" duration="3000" />
+      <workItem from="1703581448803" duration="1094000" />
+      <workItem from="1703582793231" duration="975000" />
+      <workItem from="1703583784566" duration="4282000" />
+    </task>
+    <task id="LOCAL-00001" summary="bridBoot">
+      <option name="closed" value="true" />
+      <created>1703582655199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703582655199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bridBoot">
+      <option name="closed" value="true" />
+      <created>1703582880808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703582880808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bridBoot">
+      <option name="closed" value="true" />
+      <created>1703583325126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703583325126</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bridBoot" />
+    <option name="LAST_COMMIT_MESSAGE" value="bridBoot" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/V4/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
